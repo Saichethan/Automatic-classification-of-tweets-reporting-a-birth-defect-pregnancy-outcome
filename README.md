@@ -17,3 +17,6 @@ This new, multi-class classification task involves distinguishing three classes 
 |Number of Tweets|14717| 3680 |   4372 |
 
 
+## Proposed Architectures
+
+### Single View
