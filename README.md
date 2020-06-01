@@ -1,6 +1,6 @@
-**Social Media Mining for Health Applications** 5th #SMM4H Workshop, of COLING 2020.
+## **Social Media Mining for Health Applications** 5th #SMM4H Workshop, of COLING 2020.
 
-**Task 5**: **Automatic classification of tweets reporting a birth defect pregnancy outcome**
+### **Task 5**: **Automatic classification of tweets reporting a birth defect pregnancy outcome**
 
 This new, multi-class classification task involves distinguishing three classes of tweets that mention birth defects: “defect” tweets refer to the user’s child and indicate that he/she has the birth defect mentioned in the tweet (annotated as “1”); “possible defect” tweets are ambiguous about whether someone is the user’s child and/or has the birth defect mentioned in the tweet (annotated as “2”); “non-defect” tweets merely mention birth defects (annotated as “3”).
 
@@ -20,3 +20,8 @@ This new, multi-class classification task involves distinguishing three classes 
 ## Proposed Architectures
 
 ### Single View
+
+![Single-View](https://github.com/Saichethan/SMM4H/images/SV.png)
+
+### Multi View
+![Multi-View](https://github.com/Saichethan/SMM4H/images/MV.png)
