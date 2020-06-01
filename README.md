@@ -1,4 +1,4 @@
-## **The 5th Social Media Mining for Health Applications** Workshop, of COLING 2020.
+## **The 5th Social Media Mining for Health Applications** Workshop, COLING 2020.
 
 ### **Task 5**: **Automatic classification of tweets reporting a birth defect pregnancy outcome**
 
