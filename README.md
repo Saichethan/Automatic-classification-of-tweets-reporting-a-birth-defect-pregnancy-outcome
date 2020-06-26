@@ -24,3 +24,14 @@ This new, multi-class classification task involves distinguishing three classes 
 
 ### Two View
 ![Two-View](https://github.com/Saichethan/SMM4H/blob/master/images/Two%20View.png)
+
+
+
+## Results
+
+Results on Validation data are given below
+
+|                | P      | R   | F1  |
+| -------------- | ------------- |:-------------:| -----:|
+|Single View|0.52| 0.63 |  0.57  |
+|Two View|0.50| 0.78      |   0.61  |
