@@ -19,5 +19,8 @@ This new, multi-class classification task involves distinguishing three classes 
 
 ## Proposed Architectures
 
-### Multi View
-![Multi-View](https://github.com/Saichethan/SMM4H/blob/master/images/MV.png)
+### Single View
+![Single-View](https://github.com/Saichethan/SMM4H/blob/master/images/Single%20View.png)
+
+### Two View
+![Two-View](https://github.com/Saichethan/SMM4H/blob/master/images/Two%20View.png)
