@@ -35,3 +35,12 @@ Results on Validation data are given below
 | -------------- | ------------- |:-------------:| -----:|
 |Single View|0.52| 0.63 |  0.57  |
 |Two View|0.50| 0.78      |   0.61  |
+
+
+## Run
+
+```
+# python3 preprocess.py #(for data stats and embeddings, invoked when TwoView.py executed) 
+$ python3 TwoView.py
+$ python3 SMM4H2020Task5_EvaluationScript.py $input $output
+```
