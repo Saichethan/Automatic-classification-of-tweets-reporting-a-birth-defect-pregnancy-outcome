@@ -1,0 +1,2 @@
+command: python $program/SMM4H2020Task5_EvaluationScript.py $input $output
+description: Example competition evaluation program. 
