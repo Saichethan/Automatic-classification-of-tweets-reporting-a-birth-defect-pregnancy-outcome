@@ -45,7 +45,7 @@ $ python3 preprocess.py
 
 $ python3 TwoView.py # for two view
 
-$ python3 SingleView.py # for single view
+$ python3 TwoView.py # for single view, use dense1 instead of dense
 
 $ python3 SMM4H2020Task5_EvaluationScript.py $input $output
 
