@@ -40,7 +40,13 @@ Results on Validation data are given below
 ## Run
 
 ```
-# python3 preprocess.py #(for data stats and embeddings, invoked when TwoView.py executed) 
-$ python3 TwoView.py
+$ python3 preprocess.py 
+# for data statistics and embeddings, invoked automatically when TwoView/SingleView.py executed 
+
+$ python3 TwoView.py # for two view
+
+$ python3 SingleView.py # for single view
+
 $ python3 SMM4H2020Task5_EvaluationScript.py $input $output
+
 ```
