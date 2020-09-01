@@ -10,12 +10,13 @@ This new, multi-class classification task involves distinguishing three classes 
 
 |                | Training      | Validation    | test  |
 | -------------- | ------------- |:-------------:| -----:|
-|Max tweet Length|62| 61 |  699  |
+|Max tweet Length|62| 61 |  77  |
 |Max Hashtags    |22| 13      |   23  |
 |Avg Hashtags    |2.1| 2.1      |  2.2  |
 |tweets with atleast one Hashtag|4277|  1086     | 1303  |
 |Number of Tweets|14717| 3680 |   4372 |
 
+**Note** : Some of the lines of test data are corrupted due to which length is more than 280 for those we assigned length as $0$.
 
 ## Proposed Architectures
 
