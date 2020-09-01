@@ -16,7 +16,7 @@ This new, multi-class classification task involves distinguishing three classes 
 |tweets with atleast one Hashtag|4277|  1086     | 1303  |
 |Number of Tweets|14717| 3680 |   4372 |
 
-**Note** : Some of the lines of test data are corrupted due to which length is more than 280 for those we assigned length as $0$.
+**Note** : Some of the lines of test data are corrupted due to which length is more than 280 for those we assigned length as 0.
 
 ## Proposed Architectures
 
