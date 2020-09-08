@@ -51,3 +51,9 @@ $ python3 TwoView.py # for single view, use dense1 instead of dense
 $ python3 SMM4H2020Task5_EvaluationScript.py $input $output
 
 ```
+
+## Citation
+
+```
+Saichethan Miriyala Reddy. Detecting Tweets Reporting Birth Defect Pregnancy Outcome using Two-View CNN RNN based Architecture. In Proceedings of the Fifth Social Media Mining for Health Applications (#SMM4H) Workshop & Shared Task.
+```
