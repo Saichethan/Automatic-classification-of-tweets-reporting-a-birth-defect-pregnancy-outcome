@@ -55,6 +55,16 @@ $ python3 SMM4H2020Task5_EvaluationScript.py $input $output
 ## Citation
 
 ```
-Saichethan Miriyala Reddy. Detecting Tweets Reporting Birth Defect Pregnancy Outcome using Two-View CNN RNN based Architecture. 
-In Proceedings of the Fifth Social Media Mining for Health Applications (#SMM4H) Workshop & Shared Task.
+@inproceedings{reddy-2020-detecting,
+    title = "Detecting Tweets Reporting Birth Defect Pregnancy Outcome Using Two-View {CNN} {RNN} Based Architecture",
+    author = "Reddy, Saichethan",
+    booktitle = "Proceedings of the Fifth Social Media Mining for Health Applications Workshop {\&} Shared Task",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.smm4h-1.21",
+    pages = "125--127",
+    abstract = "This research work addresses a new multi-class classification task (fifth task) provided at the fifth Social Media Mining for Health Applications (SMM4H) workshop. This automatic tweet classification task involves distinguishing three classes of tweets that mention birth defects. We propose a novel two view based CNN-BiGRU based architectures for this task. Experimental evaluation of our proposed architecture over the validation set gives encouraging results as it improves by approximately 7{\%} over our single view model for the fifth task. Code of our proposed framework is made available on Github",
+}
 ```
